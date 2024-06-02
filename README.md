@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Bs-Aditya
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on some c projects
+- 🌱 I have finished learning C, HTML, CSS and started learning JS.
+- 💞️ I’m looking to collaborate on some c, HTML and CSS projects
 - 📫 How to reach me bommaraju.sa@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: i play cricket in under 15.
 
 <!---
